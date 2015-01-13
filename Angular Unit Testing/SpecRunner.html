@@ -1,0 +1,66 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Jasmine Spec Runner</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <link rel="stylesheet" type="text/css" href="test\lib\jasmine.css">
+
+  <script type="text/javascript" src="test\lib\jasmine.js"></script>
+  <script type="text/javascript" src="test\lib\jasmine-html.js"></script>
+  
+  <script type="text/javascript" src="app\lib\jquery\jquery.js"></script>
+  
+  <script type="text/javascript" src="app\lib\angular\angular.js"></script>
+  <script type="text/javascript" src="app\lib\angular\angular-resource.min.js"></script>
+  <script type="text/javascript" src="app\lib\angular\angular-route.min.js"></script>
+
+  <script type="text/javascript" src="test\lib\angular-mocks.js"></script>
+  <script type="text/javascript" src="test\lib\sinon-1.7.3.js"></script>
+
+  <!-- include source files here... -->
+  <script type="text/javascript" src="app\js\app.js"></script>
+  <script type="text/javascript" src="app\js\controllers\EventListController.js"></script>
+  <script type="text/javascript" src="app\js\services\calendarHelper.js"></script>
+  <script type="text/javascript" src="app\js\services\userData.js"></script>
+
+  <!-- include spec files here... -->
+  <script type="text/javascript" src="test\specs\EventListControllerSpec.js"></script>
+  <script type="text/javascript" src="test\specs\calendarHelperSpec.js"></script>
+  <script type="text/javascript" src="test\specs\userDataSpec.js"></script>
+
+  <script type="text/javascript">
+    (function() {
+      var jasmineEnv = jasmine.getEnv();
+      jasmineEnv.updateInterval = 1000;
+
+      var trivialReporter = new jasmine.TrivialReporter();
+
+      jasmineEnv.addReporter(trivialReporter);
+
+      jasmineEnv.specFilter = function(spec) {
+        return trivialReporter.specFilter(spec);
+      };
+
+      var currentWindowOnload = window.onload;
+
+      window.onload = function() {
+        if (currentWindowOnload) {
+          currentWindowOnload();
+        }
+        execJasmine();
+      };
+
+      function execJasmine() {
+        jasmineEnv.execute();
+      }
+
+    })();
+  </script>
+
+</head>
+
+<body>
+	<div id="container" style="position:absolute; top: -1000" />
+</body>
+</html>

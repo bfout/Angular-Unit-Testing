@@ -1,0 +1,21 @@
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\Angular Unit Testing.dll
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\Angular Unit Testing.pdb
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\Newtonsoft.Json.dll
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\System.Web.Helpers.dll
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\System.Web.Mvc.dll
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\System.Web.Razor.dll
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\System.Web.WebPages.Deployment.dll
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\System.Web.WebPages.dll
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\System.Web.WebPages.Razor.dll
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\Newtonsoft.Json.xml
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\System.Web.Helpers.xml
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\System.Web.Mvc.xml
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\System.Web.Razor.xml
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\System.Web.WebPages.xml
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\System.Web.WebPages.Deployment.xml
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\bin\System.Web.WebPages.Razor.xml
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\obj\Debug\Angular Unit Testing.csprojResolveAssemblyReference.cache
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\obj\Debug\Angular Unit Testing.dll
+c:\users\bxfout\documents\visual studio 2012\Projects\Angular Unit Testing\Angular Unit Testing\obj\Debug\Angular Unit Testing.pdb
